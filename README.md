@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# :wave: Taylor Houghtaling
+
+Howdy partner
 
 ## 🤓 Course overview and learning outcomes 
 
